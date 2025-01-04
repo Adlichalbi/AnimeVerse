@@ -1,6 +1,6 @@
 # AnimeVerse
 
-![AnimeVerse Screenshot](/public/animeverse.png.png)
+![AnimeVerse Screenshot](/public/animeverse.png)
 
 AnimeVerse is a Next.js 14 server-side application designed to provide an immersive experience for anime enthusiasts. Featuring infinite scroll and dynamic animations powered by Framer Motion, AnimeVerse delivers a seamless way to discover and explore anime.
 
@@ -81,7 +81,7 @@ Follow these steps to run AnimeVerse locally:
 
 ## Demo
 
-![Scrolling through AnimeVerse](/public/demo.gif.gif)
+![Scrolling through AnimeVerse](/public/demo.gif)
 
 ## Contributions
 
